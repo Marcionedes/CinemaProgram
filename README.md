@@ -1,4 +1,4 @@
 Cinema Project
 
 
-Runs on command 
+Runs on command line 
